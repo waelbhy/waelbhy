@@ -3,7 +3,7 @@
 
 - 🌱 I’m willing to learn **Hadoop, MapReduce, PowerBI**, and looking to practice **Deep Learning with Python**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wael-ben-hadj-yahia-b736a01b8](https://www.linkedin.com/in/wael-ben-hadj-yahia-b736a01b8)
+- 📄 Know about my education and experience in [LinkedIn](https://www.linkedin.com/in/waelbhy/)
 
 </br>
 <h3 align="left">Connect with me :</h3>
