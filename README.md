@@ -8,7 +8,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wael-ben-hadj-yahia-b736a01b8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="wael ben hadj yahia" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/waelbhy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="wael ben hadj yahia" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/waelbhy" target="blank"><img align="center" src="http://simpleicons.org/icons/kaggle.svg" alt="wael bhy" height="40" width="40" /></a>
 </p>
 
