@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wael BHY</h1>
 <h3 align="center">A soon-to-be graduated Data Scientist eager to learn and grown in this domain!</h3>
 
-- 🌱 I’m willing to learn **Hadoop, MapReduce, PowerBI**, and looking to practice **Deep Learning with Python**
+- 🌱 I’m willing to learn **Hadoop, PowerBI**, and looking to practice **Deep Learning with Python**
 
 - 📄 Know about my education and experience in [LinkedIn](https://www.linkedin.com/in/waelbhy/)
 
